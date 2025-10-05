@@ -60,6 +60,7 @@ toc_icon: "cog"
 **"Embodied Intelligence Methods for General-Purpose Robotic Grasping and Manipulation"** | Dec. 2023
 - Invited by Prof. Qiang Li
 - Received Assistant Professor offer following the talk
+
 ---
 ## Honors & Awards
 - **2019–2021:** CSC Government Scholarship for Overseas Study, China Scholarship Council (CSC)
