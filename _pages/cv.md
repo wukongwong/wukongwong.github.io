@@ -8,7 +8,7 @@ toc_icon: "cog"
 ---
 ## Education
 ### Harbin Institute of Technology / The University of Edinburgh (CSC)
-**Ph.D. in Robotic Learning** | Sep. 2018 – May. 2024 | Harbin / Edinburgh
+**Ph.D. in Robot Learning** | Sep. 2018 – May. 2024 | Harbin / Edinburgh
 - Joint Ph.D. program funded by China Scholarship Council (CSC)
 - Supervised by Prof. Lining Sun (Changjiang Scholar, Distinguished Young Scholar) and Dr. Alex Li
 - Visited the Edinburgh Centre for Robotics (2019.9–2021.9)
