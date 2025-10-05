@@ -1,19 +1,11 @@
 ---
 permalink: /cv/
-title: "Curriculum Vitae"
+title: "CV"
 author_profile: true
 toc: true
 toc_label: "Contents"
 toc_icon: "cog"
 ---
-
-# Shuaijun Wang
-
-**Senior Algorithm Engineer** | Xiaomi Robotics | Beijing, China  
-**Email:** [wukongwoong@gmail.com](mailto:wukongwoong@gmail.com) | **LinkedIn:** [shuaijun-wang-a3611710b](https://linkedin.com/in/shuaijun-wang-a3611710b/)
-
----
-
 ## Education
 
 ### Harbin Institute of Technology / The University of Edinburgh (CSC)
