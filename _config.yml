@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Shuaijun Wang - Robotics & AI
+title: Shuaijun Wang - Embodied AI
 email: wukongwoong@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Senior Algorithm Engineer at Xiaomi Robotics, focusing on dexterous manipulation, 

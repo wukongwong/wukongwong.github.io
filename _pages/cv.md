@@ -1,9 +1,17 @@
 ---
-permalink: /CV/
+permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
 toc: true
-toc_label: "目录"
+toc_label: "Contents"
 toc_icon: "cog"
+---
+
+# Shuaijun Wang
+
+**Senior Algorithm Engineer** | Xiaomi Robotics | Beijing, China  
+**Email:** [wukongwoong@gmail.com](mailto:wukongwoong@gmail.com) | **LinkedIn:** [shuaijun-wang-a3611710b](https://linkedin.com/in/shuaijun-wang-a3611710b/)
+
 ---
 
 ## Education
@@ -12,7 +20,6 @@ toc_icon: "cog"
 **Ph.D. in Robotic Learning** | Sep. 2018 – May. 2024 | Harbin / Edinburgh
 - Joint Ph.D. program funded by China Scholarship Council (CSC)
 - Supervised by Prof. Lining Sun (Changjiang Scholar, Distinguished Young Scholar) and Dr. Alex Li
-- Focused on adaptive control algorithms for robotic manipulation and grasping tasks
 - Visited the Edinburgh Centre for Robotics (2019.9–2021.9), published in Top Robotics journal IEEE/ASME TMECH
 - Collaborated with Prof. Qiang Li from Bielefeld University (2022, IJHR publication)
 
@@ -56,7 +63,7 @@ toc_icon: "cog"
 ### AVIC 613 Research Institute
 **Engineer** | Sep. 2015 – Apr. 2016 | Luoyang, China
 
-- Mechanical design and fluid simulation for electro-optical radar systems
+- Mechanical design for electro-optical radar systems
 
 ---
 ### Selected Publications
@@ -71,13 +78,16 @@ toc_icon: "cog"
    [DOI](https://doi.org/10.1109/TMECH.2021.3132465) | [Demo Video](https://www.youtube.com/watch?v=lEpPlS7Pg58) 
 
 4. **Wang, Shuaijun**, Lining Sun, et al. "Seeing is Grasping: A Novel Arm-Gripper Grasping Synergy Framework without any Calibration." **International Journal of Humanoid Robotics (IJHR)**, 2024. *(SCI)*  
-   [DOI](https://doi.org/10.1142/S0219843624500019) | [Demo Video](https://www.bilibili.com/video/BV1tg4y1b7Qe/) 
+   [DOI](https://doi.org/10.1142/S0219843623500330) | [Demo Video](https://www.bilibili.com/video/BV1tg4y1b7Qe/) 
 
 5. **Wang, Shuaijun**, Lining Sun, Fusheng Zha, Wei Guo, Pengfei Wang. "Learning Adaptive Reaching and Pushing Skills Using Contact Information." **Frontiers in Neurorobotics**, 2023. *(SCI Q2)*  
-   [DOI](https://doi.org/10.3389/fnbot.2023.1138958) | [Demo Video](https://www.bilibili.com/video/BV1Tk4y1g7Fr/) 
+   [DOI](https://doi.org/10.3389/fnbot.2023.1271607) | [Demo Video](https://www.bilibili.com/video/BV1Tk4y1g7Fr/) 
 
 6. **Wang, Shuaijun**, et al. "A Generic Control Method of Manipulator Based on Optimization." In Proc. of the 2nd **IEEE ICARM**, 2017. *(EI Indexed)*  
-   [DOI](https://doi.org/10.1109/ICARM.2017.8273201) | [Project Video](https://youtu.be/Lmrpn9n0J9A)
+   [Paper](https://doi.org/10.1109/ICARM.2017.8273211)
+
+7. Jingyuan Wu, Xin Wang, **Shuaijun Wang**, Shuaishuai Wang, Bo Zhan, Fei Chen. "An Optimization-based direct teaching method for manipulator with tool's gravity compensation" **2019 IEEE 9th Annual International Conference on CYBER Technology**
+    [Paper](https://doi.org/10.1109/CYBER46603.2019.9066773)
 
 ### Patents
 - Wang, Xueqian; **Shuaijun Wang**; Zhang, Bo; Liang, Bin; Zou, Yu. "Modular Space Robotic Arm Joints and Robotic Arms That Can Be Used for Rapid Reconfiguration." **Chinese Patent**, CN104647396A, 2015.
