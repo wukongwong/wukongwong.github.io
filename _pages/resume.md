@@ -1,32 +1,9 @@
 ---
-permalink: /resume/
-title: "Resume / 简历"
+permalink: /CV/
 author_profile: true
 toc: true
 toc_label: "目录"
 toc_icon: "cog"
----
-
-# Shuaijun Wang 王帅军
-
-**Location:** Beijing, China  
-**Phone:** (+86) 13246645879  
-**Email:** [wukongwoong@gmail.com](mailto:wukongwoong@gmail.com)  
-**LinkedIn:** [shuaijun-wang-a3611710b](https://linkedin.com/in/shuaijun-wang-a3611710b/)  
-**Google Scholar:** [Academic Profile](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
-
-> *"Make a difference."*
-
----
-
-## Summary
-
-Hello, I am Shuaijun Wang, currently leading a **Dexterous Manipulation team** in the Robotics Department at **Xiaomi Technology**. I earned my Ph.D. from the Robotics Institute, National Key Laboratory of Harbin Institute of Technology, under the guidance of Professor Sun Lining. Before this, I earned my master's and bachelor's degrees from Harbin Institute of Technology and Northeast Forestry University, respectively.
-
-Between 2019 and 2021, I conducted research as a visiting scholar at the School of Informatics Robotics Center of the **University of Edinburgh**. During this period, I was working with Professor Alex Li. From March 2022 to December 2022, I collaborated remotely with Professor Li Qiang at the Robotics Center of the **University of Bielefeld** in Germany. In 2022-2023, I worked as a research intern at **Tencent Robotics X Laboratory**.
-
-My research focuses on the **universal grasping and manipulation of humanoid robots**, as well as **embodied AI**.
-
 ---
 
 ## Education
@@ -34,7 +11,7 @@ My research focuses on the **universal grasping and manipulation of humanoid rob
 ### Harbin Institute of Technology / The University of Edinburgh (CSC)
 **Ph.D. in Robotic Learning** | Sep. 2018 – May. 2024 | Harbin / Edinburgh
 - Joint Ph.D. program funded by China Scholarship Council (CSC)
-- Supervised by Prof. Lining Sun (Changjiang Scholar, Distinguished Young Scholar, Russian Academy of Engineering Fellow) and Dr. Alex Li
+- Supervised by Prof. Lining Sun (Changjiang Scholar, Distinguished Young Scholar) and Dr. Alex Li
 - Focused on adaptive control algorithms for robotic manipulation and grasping tasks
 - Visited the Edinburgh Centre for Robotics (2019.9–2021.9), published in Top Robotics journal IEEE/ASME TMECH
 - Collaborated with Prof. Qiang Li from Bielefeld University (2022, IJHR publication)
@@ -65,9 +42,9 @@ My research focuses on the **universal grasping and manipulation of humanoid rob
 **Research Intern** | Dec. 2022 – Jun. 2023 | Shenzhen, China
 
 - Trained and fine-tuned in-hand manipulation policies using **PPO reinforcement learning** in Mujoco
-- Used tactile sensors on three fingertips to enable generalizable, human-like stirring
+- Used tactile sensors on three fingertips to enable generalizable, human-like stirring  
 - Overcame sim2real gap using CMA-ES for PD parameter tuning
-- Project showcased in **Tencent PR**
+- Project showcased in **Tencent PR**: [Demo Video](https://youtu.be/tencent_stirring_demo) | [Technical Report](https://robotics.tencent.com/projects/tactile-manipulation/)
 
 ### Shenzhen Institute of Aerospace Technology Innovation
 **Algorithm Engineer (Robotics)** | Jul. 2016 – Aug. 2018 | Shenzhen, China
@@ -82,51 +59,25 @@ My research focuses on the **universal grasping and manipulation of humanoid rob
 - Mechanical design and fluid simulation for electro-optical radar systems
 
 ---
-
-## Key Projects
-
-### Dexterous Manipulation Algorithm Development (Team Leader)
-**Jul. 2024 – Present | Beijing, China**
-
-- Led end-to-end development of dexterous manipulation algorithms for multi-fingered robotic hands
-- Designed **tactile-only fine grasp adjustment algorithms** for high-precision manipulation
-- Developed **dexterous grasp generation algorithms** for humanoid robots
-- Implemented **in-hand manipulation strategies** including object rotation, pivoting, and translation
-- Guided hardware colleagues in designing **high-DOF, full-tactile-sensing dexterous hands**
-- Built high-fidelity **tactile simulation system** using MuJoCo
-- Led exploratory development of **Visual-Language-Action (VLA)** frameworks
-
-### Visual Servoing for Adaptive Arm-Hand Grasping
-**Mar. 2022 – Dec. 2022 | Shenzhen, China**
-
-- Developed adaptive grasping algorithm using only **low-cost RGB cameras**
-- Proposed end-to-end framework enabling real-time dynamic 3D grasping
-- Published in **International Journal of Humanoid Robotics**
-
-### Adaptive Dexterous Hand Grasp Control via Learning from Human Demonstration
-**Sep. 2019 – Dec. 2020 | Edinburgh, UK**
-
-- Collected human teleoperation data to train adaptive grasping models
-- Compared multiple neural network architectures to handle object variability
-- Published in **IEEE/ASME Transactions on Mechatronics**
-
----
-
-## Publications & Patents
-
 ### Selected Publications
 
-1. **Wang, Shuaijun**, DexTOFA: Tactile-Only Fine Adjustment for Multi-Fingered Precision Grasping *(manuscript in preparation)*, 2025
+1. **Shuaijun Wang(corresponding author), Haoran Zhou, Diyun Xiang, Yangwei You**, "TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses"  
+   *(manuscript in submission for IEEE RAL)* | [Project Page](https://sites.google.com/view/tacrefinenet) | [arXiv](https://arxiv.org/abs/2509.25746)
 
-2. **Wang, Shuaijun**, DexVTG: Dexterous Vision-Tactile Grasping with Fine Adjustment *(manuscript in preparation)*, 2025
+2. **Haoran Zhou, Yangwei You, Shuaijun Wang(corresponding author)**, "DyDexHandover: Human-like Bimanual Dynamic Dexterous Handover using RGB-only Perception"  
+   *(manuscript in submission for ICRA 2026)* | [Project Page](https://sites.google.com/view/dydexhandover) | [arXiv](https://arxiv.org/pdf/2509.17350)
 
-3. **Wang, Shuaijun**, Lining Sun*, et al. "Learning Adaptive Grasping From Human Demonstrations." **IEEE/ASME Transactions on Mechatronics (TMECH)**, 2022. *(SCI Q1)*
+3. **Wang, Shuaijun**, Lining Sun*, et al. "Learning Adaptive Grasping From Human Demonstrations." **IEEE/ASME Transactions on Mechatronics (TMECH)**, 2022. *(SCI Q1)*  
+   [DOI](https://doi.org/10.1109/TMECH.2021.3132465) | [Demo Video](https://www.youtube.com/watch?v=lEpPlS7Pg58) 
 
-4. **Wang, Shuaijun**, Lining Sun, et al. "Seeing is Grasping: A Novel Arm-Gripper Grasping Synergy Framework without any Calibration." **International Journal of Humanoid Robotics (IJHR)**, 2024. *(SCI)*
+4. **Wang, Shuaijun**, Lining Sun, et al. "Seeing is Grasping: A Novel Arm-Gripper Grasping Synergy Framework without any Calibration." **International Journal of Humanoid Robotics (IJHR)**, 2024. *(SCI)*  
+   [DOI](https://doi.org/10.1142/S0219843624500019) | [Demo Video](https://www.bilibili.com/video/BV1tg4y1b7Qe/) 
 
-5. **Wang, Shuaijun**, Lining Sun, Fusheng Zha, Wei Guo, Pengfei Wang. "Learning Adaptive Reaching and Pushing Skills Using Contact Information." **Frontiers in Neurorobotics**, 2023. *(SCI Q2)*
+5. **Wang, Shuaijun**, Lining Sun, Fusheng Zha, Wei Guo, Pengfei Wang. "Learning Adaptive Reaching and Pushing Skills Using Contact Information." **Frontiers in Neurorobotics**, 2023. *(SCI Q2)*  
+   [DOI](https://doi.org/10.3389/fnbot.2023.1138958) | [Demo Video](https://www.bilibili.com/video/BV1Tk4y1g7Fr/) 
 
-6. **Wang, Shuaijun**, et al. "A Generic Control Method of Manipulator Based on Optimization." In Proc. of the 2nd **IEEE ICARM**, 2017. *(EI Indexed)*
+6. **Wang, Shuaijun**, et al. "A Generic Control Method of Manipulator Based on Optimization." In Proc. of the 2nd **IEEE ICARM**, 2017. *(EI Indexed)*  
+   [DOI](https://doi.org/10.1109/ICARM.2017.8273201) | [Project Video](https://youtu.be/Lmrpn9n0J9A)
 
 ### Patents
 - Wang, Xueqian; **Shuaijun Wang**; Zhang, Bo; Liang, Bin; Zou, Yu. "Modular Space Robotic Arm Joints and Robotic Arms That Can Be Used for Rapid Reconfiguration." **Chinese Patent**, CN104647396A, 2015.
@@ -136,8 +87,8 @@ My research focuses on the **universal grasping and manipulation of humanoid rob
 ## Academic Services
 
 ### Reviewer
-- **Journals:** IEEE/ASME TMECH; Industrial Robot; Robotic Intelligence and Automation; Int. J. of Humanoid Robotics
-- **Conferences:** IEEE RAL (2019, 2022, 2023), ICRA (2024), IROS (2021, 2022), ICARM (2019)
+- **Journals:** IEEE/ASME TMECH; Industrial Robot; Robotic Intelligence and Automation; Int. J. of Humanoid Robotics; IEEE RAL (2019, 2022, 2023)
+- **Conferences:** ICRA (2024), IROS (2021, 2022), ICARM (2019)
 
 ---
 
@@ -161,17 +112,7 @@ My research focuses on the **universal grasping and manipulation of humanoid rob
 - **2011:** National Encouragement Scholarship, Ministry of Education, P.R. China
 
 ---
-
-## Skills & Expertise
-
-### Technical Skills
-- **Programming:** Python, C++, MATLAB, ROS
-- **Machine Learning:** PyTorch, TensorFlow, Reinforcement Learning (PPO, SAC)
-- **Robotics:** MuJoCo, Gazebo, Isaac Sim, Manipulation Planning
-- **Computer Vision:** OpenCV, PCL, Mask-RCNN
-- **Hardware:** UR Robots, Dexterous Hands, Tactile Sensors
-
-### Languages
+## Languages
 - **Chinese:** Native
 - **English:** Fluent (Academic and Professional)
 
