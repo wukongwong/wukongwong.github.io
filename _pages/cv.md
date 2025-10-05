@@ -6,28 +6,23 @@ toc: true
 toc_label: "Contents"
 toc_icon: "cog"
 ---
-## Education
-
+<!-- ## Education -->
 ### Harbin Institute of Technology / The University of Edinburgh (CSC)
 **Ph.D. in Robotic Learning** | Sep. 2018 – May. 2024 | Harbin / Edinburgh
 - Joint Ph.D. program funded by China Scholarship Council (CSC)
 - Supervised by Prof. Lining Sun (Changjiang Scholar, Distinguished Young Scholar) and Dr. Alex Li
 - Visited the Edinburgh Centre for Robotics (2019.9–2021.9)
 - Collaborated with Prof. Qiang Li from Bielefeld University (2022)
-
 ### Harbin Institute of Technology (Shenzhen)
 **M.Sc. in Mechatronic Engineering** | Sep. 2013 – Sep. 2015 | Shenzhen, China
 - Supervised by Prof. Xin Wang
 - Focused on modular mechanical design and kinematic analysis of robotic arms
-
 ### Northeast Forestry University (Project 211)
 **B.Eng. in Intelligent Equipment Engineering** | Sep. 2009 – Sep. 2013 | Harbin, China
 - **Top 5%** of the class
 - Awarded Outstanding Graduate
-
 ---
 ## Selected Publications
-
 1. **Shuaijun Wang(corresponding author), Haoran Zhou, Diyun Xiang, Yangwei You**, "TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses" *(manuscript in submission for IEEE RAL)* 
     [Project Page](https://sites.google.com/view/tacrefinenet) | [Paper](https://arxiv.org/abs/2509.25746)
 
@@ -51,41 +46,28 @@ toc_icon: "cog"
 
 ## Patents
 - Wang, Xueqian; **Shuaijun Wang**; Zhang, Bo; Liang, Bin; Zou, Yu. "Modular Space Robotic Arm Joints and Robotic Arms That Can Be Used for Rapid Reconfiguration." **Chinese Patent**, CN104647396A, 2015.
-
 ---
-
 ## Academic Services
-
 ### Reviewer
 - **Journals:** IEEE/ASME TMECH; Industrial Robot; Robotic Intelligence and Automation; Int. J. of Humanoid Robotics; IEEE RAL (2019, 2022, 2023)
 - **Conferences:** ICRA (2024), IROS (2021, 2022), ICARM (2019)
-
 ---
-
 ## Invited Talks
-
 ### Beijing Academy of Artificial Intelligence
 **"Adaptive Robotic Grasping and Manipulation via Embodied Intelligence"** | Sep. 2023
 - Invited by Prof. He Wang
-
 ### Shenzhen Technology University
 **"Embodied Intelligence Methods for General-Purpose Robotic Grasping and Manipulation"** | Dec. 2023
 - Invited by Prof. Qiang Li
 - Received Assistant Professor offer following the talk
-
 ---
-
 ## Honors & Awards
-
 - **2019–2021:** CSC Government Scholarship for Overseas Study, China Scholarship Council (CSC)
 - **2013:** Outstanding Graduate, Northeast Forestry University
 - **2011:** National Encouragement Scholarship, Ministry of Education, P.R. China
-
 ---
 ## Languages
 - **Chinese:** Native
 - **English:** Fluent (Academic and Professional)
-
 ---
-
 *Last Updated: {{ site.time | date: '%B %Y' }}*
