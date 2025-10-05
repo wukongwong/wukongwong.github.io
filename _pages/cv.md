@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
+# title: "CV"
 author_profile: true
 toc: true
 toc_label: "Contents"
@@ -12,8 +12,8 @@ toc_icon: "cog"
 **Ph.D. in Robotic Learning** | Sep. 2018 – May. 2024 | Harbin / Edinburgh
 - Joint Ph.D. program funded by China Scholarship Council (CSC)
 - Supervised by Prof. Lining Sun (Changjiang Scholar, Distinguished Young Scholar) and Dr. Alex Li
-- Visited the Edinburgh Centre for Robotics (2019.9–2021.9), published in Top Robotics journal IEEE/ASME TMECH
-- Collaborated with Prof. Qiang Li from Bielefeld University (2022, IJHR publication)
+- Visited the Edinburgh Centre for Robotics (2019.9–2021.9)
+- Collaborated with Prof. Qiang Li from Bielefeld University (2022)
 
 ### Harbin Institute of Technology (Shenzhen)
 **M.Sc. in Mechatronic Engineering** | Sep. 2013 – Sep. 2015 | Shenzhen, China
@@ -28,12 +28,10 @@ toc_icon: "cog"
 ---
 ## Selected Publications
 
-1. **Shuaijun Wang(corresponding author), Haoran Zhou, Diyun Xiang, Yangwei You**, "TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses"  
-   *(manuscript in submission for IEEE RAL)* 
+1. **Shuaijun Wang(corresponding author), Haoran Zhou, Diyun Xiang, Yangwei You**, "TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses" *(manuscript in submission for IEEE RAL)* 
     [Project Page](https://sites.google.com/view/tacrefinenet) | [Paper](https://arxiv.org/abs/2509.25746)
 
-2. **Haoran Zhou, Yangwei You, Shuaijun Wang(corresponding author)**, "DyDexHandover: Human-like Bimanual Dynamic Dexterous Handover using RGB-only Perception"  
-   *(manuscript in submission for ICRA 2026)* 
+2. **Haoran Zhou, Yangwei You, Shuaijun Wang(corresponding author)**, "DyDexHandover: Human-like Bimanual Dynamic Dexterous Handover using RGB-only Perception"  *(manuscript in submission for ICRA 2026)* 
     [Project Page](https://sites.google.com/view/dydexhandover) | [Paper](https://arxiv.org/pdf/2509.17350)
 
 3. **Wang, Shuaijun**, Lining Sun*, et al. "Learning Adaptive Grasping From Human Demonstrations." **IEEE/ASME Transactions on Mechatronics (TMECH)**, 2022. *(SCI Q1)*  
