@@ -6,7 +6,7 @@ toc: true
 toc_label: "Contents"
 toc_icon: "cog"
 ---
-<!-- ## Education -->
+## Education
 ### Harbin Institute of Technology / The University of Edinburgh (CSC)
 **Ph.D. in Robotic Learning** | Sep. 2018 – May. 2024 | Harbin / Edinburgh
 - Joint Ph.D. program funded by China Scholarship Council (CSC)
