@@ -3,7 +3,7 @@ permalink: /about/
 # title: "About Me"
 layout: single
 classes: wide
-author_profile: false
+author_profile: true
 ---
 Hello, I am Shuaijun Wang, currently leading a **Dexterous Manipulation team** in the Robotics Department at **Xiaomi Technology**. I earned my Ph.D. from the Robotics Institute, National Key Laboratory of Harbin Institute of Technology, under the guidance of Professor Sun Lining. Before this, I earned my master's and bachelor's degrees from Harbin Institute of Technology and Northeast Forestry University, respectively.
 

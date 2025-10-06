@@ -3,7 +3,7 @@ permalink: /cv/
 # title: "CV"
 layout: single
 classes: wide
-author_profile: false
+author_profile: true
 ---
 ## Education
 ### Harbin Institute of Technology / The University of Edinburgh (CSC)
