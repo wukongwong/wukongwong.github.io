@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 classes: wide
+permalink: /
 ---
 
 # Welcome to my personal website!
