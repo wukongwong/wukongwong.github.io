@@ -109,7 +109,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+  # index page
+  - scope:
+      path: "index.md"
+      type: pages
+    values:
+      layout: splash
+      author_profile: false
 
 category_archive:
   type: liquid
