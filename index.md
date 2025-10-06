@@ -7,6 +7,8 @@ permalink: /
 
 # Welcome to my personal website!
 
+<img src="assets/images/bio-photo.jpg" alt="Shuaijun Wang" class="profile-photo">
+
 I am **Shuaijun Wang**, currently serving as a Senior Algorithm Engineer in the Robotics Department at Xiaomi Technology, where I lead a Dexterous Manipulation team.
 
 I earned my Ph.D. from the Robotics Institute, National Key Laboratory of Harbin Institute of Technology, under the guidance of Professor Sun Lining. Between 2019 and 2021, I conducted research as a visiting scholar at the School of Informatics Robotics Center of the **University of Edinburgh**. From March 2022 to December 2022, I collaborated remotely with Professor Li Qiang at the Robotics Center of the **University of Bielefeld** in Germany. In 2022-2023, I worked as a research intern at **Tencent Robotics X Laboratory**.

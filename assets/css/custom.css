@@ -2,7 +2,7 @@
 
 /* 全局字体调小 */
 body {
-  font-size: 0.9em;
+  font-size: 0.8em;
 }
 
 /* 标题字体调小 */
@@ -59,4 +59,21 @@ li {
 .footer-text {
   font-size: 0.8em;
   opacity: 0.8;
+}
+
+/* 个人照片样式 */
+.profile-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #ddd;
+  margin: 20px auto;
+  display: block;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.profile-photo:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
 }
