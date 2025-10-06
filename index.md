@@ -1,8 +1,8 @@
 ---
 layout: single
-author_profile: true
 classes: wide
 permalink: /
+author_profile: false
 ---
 
 # Welcome to my personal website!

@@ -1,5 +1,39 @@
 /* 自定义字体大小样式 */
 
+/* 全局字体调小 */
+body {
+  font-size: 0.9em;
+}
+
+/* 标题字体调小 */
+h1 {
+  font-size: 1.8em;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+h4 {
+  font-size: 1.1em;
+}
+
+/* 段落文字调小 */
+p {
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
+/* 列表文字调小 */
+li {
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
 /* 小字体类 */
 .small-text {
   font-size: 0.8em;
@@ -17,7 +51,7 @@
 
 /* 列表项描述文字 */
 .list-description {
-  font-size: 0.9em;
+  font-size: 0.85em;
   color: #666;
 }
 
