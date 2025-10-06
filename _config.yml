@@ -116,8 +116,16 @@ defaults:
       path: "index.md"
       type: pages
     values:
-      layout: splash
-      author_profile: false
+      layout: single
+      classes: wide
+      author_profile: true
+  # CV page
+  - scope:
+      path: "_pages/cv.md"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 category_archive:
   type: liquid
