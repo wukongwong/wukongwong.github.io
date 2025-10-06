@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Shuaijun Wang"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "assets/images/bio-photo.jpg"
   bio    : "Senior Algorithm Engineer at Xiaomi Robotics. Ph.D. in Robotic Learning. Focusing on dexterous manipulation and embodied AI."
   location: "Beijing, China"
   links:
