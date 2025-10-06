@@ -3,8 +3,9 @@ permalink: /cv/
 # title: "CV"
 layout: single
 classes: wide
-author_profile: true
+author_profile: false
 ---
+
 ## Education
 ### Harbin Institute of Technology / The University of Edinburgh (CSC)
 **Ph.D. in Robot Learning** | Sep. 2018 – May. 2024 | Harbin / Edinburgh
@@ -21,7 +22,9 @@ author_profile: true
 - **Top 5%** of the class
 - Awarded Outstanding Graduate
 ---
+
 ## Selected Publications
+
 1. **Wang, Shuaijun** (Corresponding author), Haoran Zhou, Diyun Xiang, Yangwei You. "TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses." *(Manuscript in submission for IEEE RAL)*  
 [Project Page](https://sites.google.com/view/tacrefinenet) | [Paper](https://arxiv.org/abs/2509.25746)
 
