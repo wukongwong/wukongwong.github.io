@@ -1,0 +1,11 @@
+# this file contains the social media links and usernames of the author
+# the commented lines are the default social media links supported by the template
+# the socials will be displayed in the order they are defined here
+
+email: wukongwoong@gmail.com
+linkedin_username: shuaijun-wang-a3611710b
+scholar_userid: # 请填写您的Google Scholar ID
+# github_username: # 如果您有GitHub账号，可以在这里填写
+# orcid_id: # 如果您有ORCID ID，可以在这里填写
+# research_gate_profile: # 如果您有ResearchGate账号，可以在这里填写
+rss_icon: true

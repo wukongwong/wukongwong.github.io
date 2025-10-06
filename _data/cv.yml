@@ -1,0 +1,202 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Shuaijun Wang
+    - name: Location
+      value: Beijing, China
+    - name: Phone
+      value: (+86) 13246645879
+    - name: Email
+      value: wukongwoong@gmail.com
+    - name: LinkedIn
+      value: shuaijun-wang-a3611710b/
+    - name: Motto
+      value: "Make a difference."
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Robotic Learning
+      institution: Harbin Institute of Technology / The University of Edinburgh (CSC Joint Program)
+      year: Sep. 2018 - May. 2024
+      location: Harbin / Edinburgh
+      description:
+        - Joint Ph.D. program funded by China Scholarship Council (CSC).
+        - Supervised by Prof. Lining Sun (Changjiang Scholar, Distinguished Young Scholar, Russian Academy of Engineering Fellow) and Dr. Alex Li.
+        - Focused on adaptive control algorithms for robotic manipulation and grasping tasks.
+        - Visited the Edinburgh Centre for Robotics (2019.9–2021.9), published in Top Robotics journal IEEE/ASME TMECH.
+        - Collaborated with Prof. Qiang Li from Bielefeld University (2022, IJHR publication).
+    
+    - title: M.Sc. in Mechatronic Engineering
+      institution: Harbin Institute of Technology (Shenzhen)
+      year: Sep. 2013 - Sep. 2015
+      location: Shenzhen, China
+      description:
+        - Supervised by Prof. Xin Wang.
+        - Focused on modular mechanical design and kinematic analysis of robotic arms.
+    
+    - title: B.Eng. in Intelligent Equipment Engineering (Top 5%)
+      institution: Northeast Forestry University (Project 211)
+      year: Sep. 2009 - Sep. 2013
+      location: Harbin, China
+      description:
+        - Awarded Outstanding Graduate.
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Senior Algorithm Engineer
+      institution: Xiaomi Robotics
+      year: Jul. 2024 - Present
+      location: Beijing, China
+      description:
+        - Top-Tier Talent Program - Xiaomi Future Star
+        - Leading the algorithm development for dexterous hands on humanoid robots, including grasping and manipulation algorithms using imitation learning, reinforcement learning and VLA.
+        - Responsible for simulation environment setup, dataset collection, sim-to-real transfer, supervising interns, and leading dexterous-hand algorithm development—including tactile grasping, in-hand manipulation, grasp generation, VLA exploration, and guiding hardware colleagues on high-DOF full-palm tactile dexterous hand design.
+        - Building and managing the dexterous hand algorithm team (10 team members).
+    
+    - title: Research Intern
+      institution: Tencent Robotics X Lab
+      year: Dec. 2022 - Jun. 2023
+      location: Shenzhen, China
+      description:
+        - Trained and fine-tuned in-hand manipulation policies using PPO reinforcement learning in Mujoco to stir objects with various tools on real robots.
+        - Used tactile sensors on three fingertips to enable generalizable, human-like stirring. Overcame sim2real gap using CMA-ES for PD parameter tuning.
+        - Collected visuo-tactile grasping data, designed a deep network to fuse multi-modal features, and learned a reinforcement learning-based grasping controller (exploratory task).
+        - Project showcased in Tencent PR.
+    
+    - title: Algorithm Engineer (Robotics)
+      institution: Shenzhen Institute of Aerospace Technology Innovation
+      year: Jul. 2016 - Aug. 2018
+      location: Shenzhen, China
+      description:
+        - Worked on kinematics solutions using QP methods, trajectory planning in joint and Cartesian spaces, and teaching by demonstration using force sensors.
+        - Participated in grasping system development using model-based methods - Mask-RCNN for segmentation and 4PCS for pose estimation.
+        - Integrated a RealSense camera on a UR arm and implemented hand-eye calibration and control.
+        - Project video - https://youtu.be/Lmrpn9n0J9A
+    
+    - title: Engineer
+      institution: AVIC 613 Research Institute
+      year: Sep. 2015 - Apr. 2016
+      location: Luoyang, China
+      description:
+        - Mechanical design and fluid simulation for electro-optical radar systems.
+
+- title: Project Experience
+  type: time_table
+  contents:
+    - title: Dexterous Manipulation Algorithm Development (Team Leader)
+      year: Jul. 2024 - Present
+      location: Beijing, China
+      description:
+        - Led the end-to-end development of dexterous manipulation algorithms for multi-fingered robotic hands, including task formulation, architecture design, data-driven learning, and real-time deployment. Managed a cross-functional team of 10 researchers and engineers covering perception, control, simulation, and hardware.
+        - Designed and implemented tactile-only fine grasp adjustment algorithms capable of high-precision manipulation using low-cost fingertip tactile sensors. Successfully deployed in Xiaomi Automotive's humanoid robot line.
+        - Developed dexterous grasp generation algorithms for humanoid robots, successfully deployed on real hardware.
+        - Developed in-hand dexterous manipulation algorithms, including in-hand rotation and repositioning. Leveraged model predictive control and reinforcement learning to plan and execute finger gaiting motions under tactile feedback.
+        - Guided hardware colleagues in designing high-degree-of-freedom, full-tactile-sensing dexterous hands (15+ DOFs).
+        - Assisted Xiaomi in building a tactile simulation system from scratch and significantly advanced tactile sensor development and optimization.
+        - Led exploratory development of cutting-edge dexterous manipulation and grasping algorithms based on Visual-Language-Action (VLA) frameworks.
+    
+    - title: Visual Servoing for Adaptive Arm-Hand Grasping
+      year: Mar. 2022 - Dec. 2022
+      location: Shenzhen, China
+      description:
+        - Developed an adaptive grasping algorithm using only low-cost RGB cameras without camera calibration or hand-eye transformation.
+        - Proposed an end-to-end framework enabling real-time dynamic 3D grasping across diverse objects.
+        - Published in International Journal of Humanoid Robotics.
+        - Demo video - https://www.bilibili.com/video/BV1pW4y1v7vk/
+    
+    - title: Adaptive Dexterous Hand Grasp Control via Learning from Human Demonstration
+      year: Sep. 2019 - Dec. 2020
+      location: Edinburgh, UK
+      description:
+        - Collected human teleoperation data to train adaptive grasping models using supervised learning.
+        - Compared multiple neural network architectures to handle object variability in size and stiffness.
+        - Published in IEEE/ASME Transactions on Mechatronics.
+        - Demo video - https://youtu.be/IQMR6kV9bsw
+    
+    - title: Reinforcement Learning for Contact-Aware Object Manipulation
+      year: Dec. 2021 - Jul. 2022
+      location: Edinburgh / Shenzhen
+      description:
+        - Developed an RL-based pushing strategy using Soft Actor-Critic (SAC) with different observation/reward setups.
+        - Demonstrated improved generalization and training efficiency with explicit contact modeling.
+        - Published in Frontiers in Neurorobotics.
+        - Demo video - https://www.bilibili.com/video/BV1ee4y1B7MG/
+    
+    - title: QP-based Motion Planning for UR Robot
+      year: Dec. 2016 - Sep. 2017
+      location: Shenzhen, China
+      description:
+        - Designed a control framework for Cartesian and joint space trajectory tracking using quadratic programming.
+        - Incorporated joint limits and obstacle avoidance; demonstrated trajectory tracking by writing Chinese characters.
+        - Published in ICARM 2017.
+
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Xiaomi Future Star - Top-Tier Talent Program
+    - year: 2019-2021
+      items:
+        - CSC Government Scholarship for Overseas Study, China Scholarship Council (CSC)
+    - year: 2013
+      items:
+        - Outstanding Graduate, Northeast Forestry University
+    - year: 2011
+      items:
+        - National Encouragement Scholarship, Ministry of Education, P.R. China
+
+- title: Academic Services
+  type: nested_list
+  contents:
+    - title: Journal Reviewer
+      items:
+        - IEEE/ASME Transactions on Mechatronics (TMECH)
+        - Industrial Robot
+        - Robotic Intelligence and Automation
+        - International Journal of Humanoid Robotics
+    - title: Conference Reviewer
+      items:
+        - IEEE Robotics and Automation Letters (RAL) - 2019, 2022, 2023
+        - IEEE International Conference on Robotics and Automation (ICRA) - 2024
+        - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) - 2021, 2022
+        - International Conference on Advanced Robotics and Mechatronics (ICARM) - 2019
+
+- title: Invited Talks
+  type: time_table
+  contents:
+    - title: Adaptive Robotic Grasping and Manipulation via Embodied Intelligence
+      institution: Beijing Academy of Artificial Intelligence · Embodied Intelligence Research Center
+      year: Sep. 2023
+      location: Beijing, China
+      description:
+        - Invited by Prof. He Wang.
+    
+    - title: Embodied Intelligence Methods for General-Purpose Robotic Grasping and Manipulation
+      institution: Shenzhen Technology University · School of Big Data and Internet
+      year: Dec. 2023
+      location: Shenzhen, China
+      description:
+        - Invited by Prof. Qiang Li; received Assistant Professor offer following the talk.
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Robotic Manipulation
+      items:
+        - Dexterous Manipulation and Grasping
+        - Adaptive Control Algorithms
+        - In-Hand Manipulation
+    - title: Perception and Learning
+      items:
+        - Tactile Perception and Feedback
+        - Reinforcement Learning and Imitation Learning
+        - Vision-Language-Action Models
+    - title: Artificial Intelligence
+      items:
+        - Embodied Intelligence
+        - Sim-to-Real Transfer
+        - Multi-Modal Perception Fusion
