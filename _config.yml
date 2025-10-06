@@ -36,7 +36,6 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
-  - _pages
   - index.md
 
 # Exclude from processing.
@@ -103,14 +102,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      classes: wide
-      author_profile: true
   # index page
   - scope:
       path: "index.md"
@@ -118,13 +109,6 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: true
-  # CV page
-  - scope:
-      path: "_pages/cv.md"
-      type: pages
-    values:
-      layout: single
       author_profile: true
 
 category_archive:
