@@ -1,63 +1,23 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Shuaijun Wang - Embodied AI
+title: Shuaijun Wang
 email: wukongwoong@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Ph.D. jointly trained at Harbin Institute of Technology and the University of Edinburgh.
-twitter_username: 
+description: "Senior Algorithm Engineer at Xiaomi Robotics. Research in dexterous manipulation, tactile sensing, and embodied AI."
 github_username: wukongwong
 minimal_mistakes_skin: default
-search: true
+search: false
+
+remote_theme: mmistakes/minimal-mistakes
 
 # Custom CSS
 custom_css:
   - assets/css/custom.css
 
-# Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
 
-include:
-  - index.md
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
+  - jekyll-sitemap
   - jemoji
-  - jekyll-include-cache
 
 author:
   name   : "Shuaijun Wang"
@@ -66,7 +26,7 @@ author:
   location: "Beijing, China"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:wukongwoong@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -76,12 +36,12 @@ author:
       url: "https://github.com/wukongwong"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+      url: "https://scholar.google.com/citations?user=zFDjJeYLL6wC"
 
 footer:
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:wukongwoong@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -89,31 +49,3 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wukongwong"
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # index page
-  - scope:
-      path: "index.md"
-      type: pages
-    values:
-      layout: single
-      classes: wide
-      author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
