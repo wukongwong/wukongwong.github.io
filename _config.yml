@@ -24,6 +24,10 @@ github_username: wukongwong
 minimal_mistakes_skin: default
 search: true
 
+# Custom CSS
+custom_css:
+  - assets/css/custom.css
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes

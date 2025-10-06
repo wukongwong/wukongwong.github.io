@@ -23,26 +23,26 @@ toc_icon: "cog"
 - Awarded Outstanding Graduate
 ---
 ## Selected Publications
-1. **Shuaijun Wang(corresponding author), Haoran Zhou, Diyun Xiang, Yangwei You**, "TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses" *(manuscript in submission for IEEE RAL)* 
-    [Project Page](https://sites.google.com/view/tacrefinenet) | [Paper](https://arxiv.org/abs/2509.25746)
+1. **Shuaijun Wang(Corresponding author), Haoran Zhou, Diyun Xiang, Yangwei You**, "TacRefineNet: Tactile-Only Grasp Refinement Between Arbitrary In-Hand Object Poses" *(manuscript in submission for IEEE RAL)* 
+[Project Page](https://sites.google.com/view/tacrefinenet) | [Paper](https://arxiv.org/abs/2509.25746)
 
-2. **Haoran Zhou, Yangwei You, Shuaijun Wang(corresponding author)**, "DyDexHandover: Human-like Bimanual Dynamic Dexterous Handover using RGB-only Perception"  *(manuscript in submission for ICRA 2026)* 
-    [Project Page](https://sites.google.com/view/dydexhandover) | [Paper](https://arxiv.org/pdf/2509.17350)
+2. **Haoran Zhou, Yangwei You, Shuaijun Wang(Corresponding author)**, "DyDexHandover: Human-like Bimanual Dynamic Dexterous Handover using RGB-only Perception"  *(manuscript in submission for ICRA 2026)* 
+[Project Page](https://sites.google.com/view/dydexhandover) | [Paper](https://arxiv.org/pdf/2509.17350)
 
 3. **Wang, Shuaijun**, Lining Sun*, et al. "Learning Adaptive Grasping From Human Demonstrations." **IEEE/ASME Transactions on Mechatronics (TMECH)**, 2022. *(SCI Q1)*  
-   [Paper](https://doi.org/10.1109/TMECH.2021.3132465) | [Demo Video](https://www.youtube.com/watch?v=lEpPlS7Pg58) 
+[Paper](https://doi.org/10.1109/TMECH.2021.3132465) | [Demo Video](https://www.youtube.com/watch?v=lEpPlS7Pg58) 
 
 4. **Wang, Shuaijun**, Lining Sun, et al. "Seeing is Grasping: A Novel Arm-Gripper Grasping Synergy Framework without any Calibration." **International Journal of Humanoid Robotics (IJHR)**, 2024. *(SCI)*  
-   [Paper](https://doi.org/10.1142/S0219843623500330) | [Demo Video](https://www.bilibili.com/video/BV1tg4y1b7Qe/) 
+[Paper](https://doi.org/10.1142/S0219843623500330) | [Demo Video](https://www.bilibili.com/video/BV1tg4y1b7Qe/) 
 
 5. **Wang, Shuaijun**, Lining Sun, Fusheng Zha, Wei Guo, Pengfei Wang. "Learning Adaptive Reaching and Pushing Skills Using Contact Information." **Frontiers in Neurorobotics**, 2023. *(SCI Q2)*  
-   [Paper](https://doi.org/10.3389/fnbot.2023.1271607) | [Demo Video](https://www.bilibili.com/video/BV1Tk4y1g7Fr/) 
+[Paper](https://doi.org/10.3389/fnbot.2023.1271607) | [Demo Video](https://www.bilibili.com/video/BV1Tk4y1g7Fr/) 
 
 6. **Wang, Shuaijun**, et al. "A Generic Control Method of Manipulator Based on Optimization." In Proc. of the 2nd **IEEE ICARM**, 2017. *(EI Indexed)*  
-   [Paper](https://doi.org/10.1109/ICARM.2017.8273211)
+[Paper](https://doi.org/10.1109/ICARM.2017.8273211)
 
 7. Jingyuan Wu, Xin Wang, **Shuaijun Wang**, Shuaishuai Wang, Bo Zhan, Fei Chen. "An Optimization-based direct teaching method for manipulator with tool's gravity compensation" **2019 IEEE 9th Annual International Conference on CYBER Technology**
-    [Paper](https://doi.org/10.1109/CYBER46603.2019.9066773)
+[Paper](https://doi.org/10.1109/CYBER46603.2019.9066773)
 
 ## Patents
 - Wang, Xueqian; **Shuaijun Wang**; Zhang, Bo; Liang, Bin; Zou, Yu. "Modular Space Robotic Arm Joints and Robotic Arms That Can Be Used for Rapid Reconfiguration." **Chinese Patent**, CN104647396A, 2015.

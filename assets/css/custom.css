@@ -1,0 +1,28 @@
+/* 自定义字体大小样式 */
+
+/* 小字体类 */
+.small-text {
+  font-size: 0.8em;
+}
+
+/* 超小字体类 */
+.tiny-text {
+  font-size: 0.7em;
+}
+
+/* 自定义字体大小 */
+.custom-font-small {
+  font-size: 0.85em;
+}
+
+/* 列表项描述文字 */
+.list-description {
+  font-size: 0.9em;
+  color: #666;
+}
+
+/* 页脚文字 */
+.footer-text {
+  font-size: 0.8em;
+  opacity: 0.8;
+}
