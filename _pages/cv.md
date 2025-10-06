@@ -2,9 +2,6 @@
 permalink: /cv/
 # title: "CV"
 author_profile: true
-toc: true
-toc_label: "Contents"
-toc_icon: "cog"
 ---
 ## Education
 ### Harbin Institute of Technology / The University of Edinburgh (CSC)
