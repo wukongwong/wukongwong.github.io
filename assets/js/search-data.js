@@ -384,14 +384,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-learning-adaptive-grasping-from-human-demonstrations-published-in-ieee-asme-transactions-on-mechatronics-sci-q1",
+            },},{id: "news-paper-learning-adaptive-grasping-from-human-demonstrations-published-in-ieee-asme-transactions-on-mechatronics-sci-q1-top-journal-in-robotics",
           title: 'Paper “Learning Adaptive Grasping From Human Demonstrations” published in IEEE/ASME Transactions on Mechatronics...',
           description: "",
           section: "News",},{id: "news-invited-talk-at-shenzhen-technology-university-on-embodied-intelligence-methods-for-general-purpose-robotic-grasping-and-manipulation",
           title: 'Invited talk at Shenzhen Technology University on “Embodied Intelligence Methods for General-Purpose Robotic...',
-          description: "",
-          section: "News",},{id: "news-paper-seeing-is-grasping-a-novel-arm-gripper-grasping-synergy-framework-without-any-calibration-published-in-international-journal-of-humanoid-robotics",
-          title: 'Paper “Seeing is Grasping: A Novel Arm-Gripper Grasping Synergy Framework without any Calibration”...',
           description: "",
           section: "News",},{id: "news-successfully-earned-ph-d-in-robotic-learning-from-harbin-institute-of-technology",
           title: 'Successfully earned Ph.D. in Robotic Learning from Harbin Institute of Technology! 🎓',
