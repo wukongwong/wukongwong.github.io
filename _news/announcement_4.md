@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-01 10:00:00+0800
+date: 2022-06-01 10:00:00+0800
 inline: true
 related_posts: false
 ---
 
-Invited talk at Shenzhen Technology University on "Embodied Intelligence Methods for General-Purpose Robotic Grasping and Manipulation".
+Paper "Learning Adaptive Grasping From Human Demonstrations" published in IEEE/ASME Transactions on Mechatronics (SCI Q1 Top journal in Robotics)! 🏆

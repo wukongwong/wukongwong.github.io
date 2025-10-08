@@ -33,7 +33,7 @@ Hello, I am Shuaijun Wang, currently leading a Dexterous Manipulation team in th
 
 Between 2019 and 2021, I conducted research as a visiting scholar at the School of Informatics Robotics Center of the University of Edinburgh, working with Dr. Alex Li. From March 2022 to December 2022, I collaborated remotely with Professor Qiang Li at the Robotics Center of the University of Bielefeld in Germany. In 2022-2023, I worked as a research intern at Tencent Robotics X Laboratory.
 
-My research focuses on universal grasping and manipulation of humanoid robots, as well as embodied AI. At Xiaomi, I lead a team of 10 researchers developing dexterous manipulation algorithms using imitation learning, reinforcement learning, and Vision-Tactile-Language-Action (VTLA) frameworks.
+My research focuses on universal and dexterous grasping and manipulation of humanoid robots, as well as embodied AI. 
 
 ### Research Interests
 - Dexterous Manipulation and Grasping
