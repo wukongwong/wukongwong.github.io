@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined Xiaomi Robotics Department as a Senior Algorithm Engineer, leading the Dexterous Manipulation Team! 🎉
+Joined Xiaomi Robotics Department as a Senior Algorithm Engineer, building from 0-1 and leading the Dexterous Manipulation Team! 🎉

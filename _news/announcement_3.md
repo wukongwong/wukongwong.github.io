@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talk at Shenzhen Technology University on "Embodied Intelligence Methods for General-Purpose Robotic Grasping and Manipulation".
+Invited talk at Shenzhen Technology University on "Embodied Intelligence Methods for General-Purpose Robotic Grasping and Manipulation".(Received Assistant Professor invitation)
