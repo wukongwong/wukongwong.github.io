@@ -7,7 +7,7 @@ subtitle: <a href='https://www.mi.com/'>Xiaomi Robotics</a> · Senior Algorithm 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: myphoto.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Beijing, China</p>
