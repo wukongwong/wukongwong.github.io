@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 nav: false
-subtitle: <a href='https://www.mi.com/'>Xiaomi Robotics</a> · Senior Algorithm Engineer · Dexterous Manipulation Team Leader
+subtitle: <a href='https://www.mi.com/'>Xiaomi Robotics</a> · Senior Algorithm Engineer · Dexterous Manipulation Team Lead
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -31,7 +31,7 @@ latest_posts:
 
 Hello, I am Shuaijun Wang, currently leading a Dexterous Manipulation team in the Robotics Department at Xiaomi Technology. I earned my Ph.D. from the Robotics Institute, National Key Laboratory of Harbin Institute of Technology, under the guidance of Professor Lining Sun. Before this, I earned my master's and bachelor's degrees from Harbin Institute of Technology and Northeast Forestry University, respectively.
 
-Between 2019 and 2021, I conducted research as a visiting scholar at the School of Informatics Robotics Center of the University of Edinburgh, working with Dr. Alex Li. From March 2022 to December 2022, I collaborated remotely with Professor Qiang Li at the Robotics Center of the University of Bielefeld in Germany. In 2022-2023, I worked as a research intern at Tencent Robotics X Laboratory.
+Between 2019 and 2021, I conducted research as a visiting scholar at the School of Informatics, Robotics Center of the University of Edinburgh, working with Professor Zhibin(Alex) Li. From March 2022 to December 2022, I collaborated remotely with Professor Qiang Li at the Robotics Center of the University of Bielefeld in Germany. In 2022-2023, I worked as a research intern at Tencent Robotics X Laboratory.
 
 My research focuses on universal and dexterous grasping and manipulation of humanoid robots, as well as embodied AI. 
 
