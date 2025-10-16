@@ -29,7 +29,7 @@ latest_posts:
 
 ## "Make a difference."
 
-Hello, I am Shuaijun Wang, currently leading the Dexterous Manipulation Team in the Robotics Department at Xiaomi Technology. I received my Ph.D. degree from the Robotics Institute, National Key Laboratory of Harbin Institute of Technology, under the supervision of Professor Lining Sun. I obtained my M.S. degree from Harbin Institute of Technology(Shenzhen) under the supervision of Professor Xin Wang, and my B.S. degree from Northeast Forestry University.
+Hello, I am Shuaijun Wang, currently leading the Dexterous Manipulation Team in the Robotics Department at Xiaomi Technology. I received my Ph.D. degree from the Robotics Institute, National Key Laboratory of Harbin Institute of Technology, under the supervision of Professor Lining Sun. I obtained my M.S. degree from Harbin Institute of Technology(Shenzhen) under the supervision of Professor Xin Wang, and my B.S. degree from Northeast Forestry University as an Outstanding Graduate.
 
 Between 2019 and 2021, I conducted research as a visiting scholar at the School of Informatics, Robotics Center of the University of Edinburgh, working with Professor Zhibin(Alex) Li. From March 2022 to December 2022, I collaborated remotely with Professor Qiang Li at the Robotics Center of the University of Bielefeld in Germany. In 2022-2023, I worked as a research intern at Tencent Robotics X Laboratory.
 
