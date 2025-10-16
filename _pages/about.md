@@ -39,5 +39,5 @@ My research focuses on universal and dexterous grasping and manipulation of huma
 - Dexterous Manipulation and Grasping
 - Tactile Perception and Feedback
 - Reinforcement Learning and Imitation Learning
-- Embodied Intelligence
 - Vision-Tactile-Language-Action Models (VTLA)
+- Embodied Intelligence
