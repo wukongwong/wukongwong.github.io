@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 nav: false
-subtitle: <a href='https://www.mi.com/'>Xiaomi Robotics</a> · Senior Algorithm Engineer · Dexterous Manipulation Team Lead
+subtitle: <a href='https://www.mi.com/'>Xiaomi Robotics</a> · Senior Algorithm Engineer · Dexterous Manipulation Technical Lead
 
 profile:
   align: right
