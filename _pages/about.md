@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## "Noting new in human intelligence comprared to AI."
+## "Noting new in human intelligence compared to AI."
 
 Hello, I am Shuaijun Wang, currently serving as Technical Lead of Dexterous Manipulation in the Robotics Department at Xiaomi Technology. I received my Ph.D. degree from the Robotics Institute, National Key Laboratory of Harbin Institute of Technology, under the supervision of Professor Lining Sun. I obtained my M.S. degree from Harbin Institute of Technology(Shenzhen) under the supervision of Professor Xin Wang, and my B.S. degree from Northeast Forestry University as an Outstanding Graduate.
 
