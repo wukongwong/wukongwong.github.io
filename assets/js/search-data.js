@@ -399,7 +399,7 @@ ninja.data = [{
           section: "News",},{id: "news-successfully-earned-ph-d-in-robotic-learning-from-harbin-institute-of-technology",
           title: 'Successfully earned Ph.D. in Robotic Learning from Harbin Institute of Technology! 🎓',
           description: "",
-          section: "News",},{id: "news-joined-xiaomi-robotics-department-as-a-senior-algorithm-engineer-building-from-0-1-and-leading-the-dexterous-manipulation-team",
+          section: "News",},{id: "news-joined-xiaomi-robotics-department-as-a-senior-algorithm-engineer-building-from-0-1-and-serving-as-technical-lead-of-the-dexterous-manipulation-team",
           title: 'Joined Xiaomi Robotics Department as a Senior Algorithm Engineer, building from 0-1 and...',
           description: "",
           section: "News",},{id: "news-our-paper-hd2handover-human-like-dynamic-dexterous-bimanual-handover-using-rgb-only-perception-has-been-accepted-to-the-iros-2025-workshop-on-bimanual-manipulation-advancing-human-humanoid-interaction-and-collaboration",
