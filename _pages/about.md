@@ -7,7 +7,7 @@ subtitle: <a href='https://www.mi.com/'>Xiaomi Robotics</a> · Senior Algorithm 
 
 profile:
   align: right
-  image: myphoto.jpg
+  image: zp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Beijing, China</p>
@@ -39,5 +39,5 @@ My research focuses on universal and dexterous grasping and manipulation of huma
 - Dexterous Manipulation and Grasping
 - Tactile Perception and Feedback
 - Reinforcement Learning and Imitation Learning
-- Vision-Tactile-Language-Action Models (VTLA)
+- Full-self Manipulation(FSM)
 - Embodied Intelligence
