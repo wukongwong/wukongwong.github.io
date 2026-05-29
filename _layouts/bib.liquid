@@ -362,6 +362,12 @@
       </div>
     {% endif %}
 
+    {% if entry.key == 'wang2026handoverinair' %}
+      <div class="mt-3">
+        {% include video.liquid path="/assets/video/handover-in-air/handover.mp4" class="img-fluid rounded z-depth-1" controls=true muted=true loop=true poster="/assets/img/projects/handover-in-air.jpg" %}
+      </div>
+    {% endif %}
+
     {% if entry.video and site.enable_video_embedding %}
       <!-- Hidden video block -->
       <div class="abstract hidden">
