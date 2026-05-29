@@ -453,11 +453,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-handover-in-air",
-          title: 'Handover-in-Air',
-          description: "Dexterous robotic handover for objects in motion.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/handover-in-air/";
             },},{
         id: 'social-email',
         title: 'email',
