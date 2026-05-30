@@ -12,6 +12,7 @@ profile:
   more_info: >
     <p>Beijing, China</p>
     <p>📧 wukongwoong@gmail.com</p>
+    <p><a href="/assets/pdf/cv.pdf" target="_blank">Download CV</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
