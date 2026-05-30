@@ -370,6 +370,20 @@
       </div>
     {% endif %}
 
+    {% if entry.key == 'wang2023tactileinhand' %}
+      <div class="row mt-3">
+        <div class="col-md-4 mb-3">
+          <img src="{{ '/assets/img/works/tactile-inhand-manipulation/tactile-signal-hand.gif' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Fingertip tactile signal visualization">
+        </div>
+        <div class="col-md-4 mb-3">
+          <img src="{{ '/assets/img/works/tactile-inhand-manipulation/simulation.gif' | relative_url }}" class="img-fluid rounded z-depth-1" alt="In-hand manipulation simulation">
+        </div>
+        <div class="col-md-4 mb-3">
+          <img src="{{ '/assets/img/works/tactile-inhand-manipulation/tactile-signal-task.gif' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Tactile feedback during in-hand manipulation">
+        </div>
+      </div>
+    {% endif %}
+
     {% if entry.video and site.enable_video_embedding %}
       <!-- Hidden video block -->
       <div class="abstract hidden">
