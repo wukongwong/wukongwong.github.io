@@ -14,13 +14,15 @@ category: work
 </p>
 
 <video
-  class="img-fluid rounded z-depth-1"
-  controls
-  playsinline
-  preload="metadata"
-  poster="{{ '/assets/img/projects/dexvt-wam-cover.jpg' | relative_url }}"
-  style="width: 100%; aspect-ratio: 11 / 6; object-fit: cover;"
+class="img-fluid rounded z-depth-1"
+controls
+playsinline
+preload="metadata"
+poster="{{ '/assets/img/projects/dexvt-wam-cover.jpg' | relative_url }}"
+style="width: 100%; aspect-ratio: 11 / 6; object-fit: cover;"
+
 >
+
   <source src="{{ '/assets/video/dexvt-wam/demo.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support embedded video.
 </video>
