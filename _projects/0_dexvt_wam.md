@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DexVT-WAM
+title: "DexVT-WAM: Exploring Foundation Models for Dexterous Manipulation"
 permalink: /projects/dexvt-wam/
 description: A foundation-model pipeline for dexterous manipulation, from egocentric data to sim-and-real evaluation.
 img: assets/img/projects/dexvt-wam-cover.jpg
