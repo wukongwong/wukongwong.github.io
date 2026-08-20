@@ -408,7 +408,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-tacrefinenet-is-featured-in-xiaomi-group-s-fy2025-annual-results-presentation-materials-pdf",
           title: 'Our work TacRefineNet is featured in Xiaomi Group’s FY2025 annual results presentation materials...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "projects-dexvt-wam",
+          title: 'DexVT-WAM',
+          description: "A foundation-model pipeline for dexterous manipulation, from egocentric data to sim-and-real evaluation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dexvt-wam/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
