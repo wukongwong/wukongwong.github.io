@@ -58,7 +58,7 @@ style="width: 100%; aspect-ratio: 11 / 6; object-fit: cover;"
     <h3>04 &middot; Sim and real evaluation</h3>
     <p>
       Established consistent simulation and physical-robot protocols to measure task success,
-      generalization, robustness, and the sim-to-real gap.
+      generalization, robustness.
     </p>
   </div>
 </div>
